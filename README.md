@@ -1,5 +1,5 @@
 # gamelogger
-Keep track of your collection, choose what to play next, log your plays and scores
+Keep track of your collection, choose what to play next, log your plays
 
 ```mermaid
 graph LR
@@ -9,10 +9,12 @@ graph LR
 
     C --> E(Log Plays)
     C --> F(Log Games)
+    C --> J(Create User)
 
     D --> G(Plays Data)
     D --> H(Games List)
     D --> I(Suggestions)
+    D --> K(User Data)
     ;
 
 ```
