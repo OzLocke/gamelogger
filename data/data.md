@@ -1,6 +1,7 @@
 ```mermaid
 erDiagram
-    User }|..o{ Games : ownership
-    Games ||..o{ Plays : "has had"
-    User }|..o{ Plays : "has had"
+    User }|..o{ Games : owns
+    Games ||..o{ Plays : "has been played"
+    User }|..o{ Plays : "has played"
+    User }|..o{ Plays : "has won"
 ```

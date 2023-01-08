@@ -1,2 +1,2 @@
-﻿Game,Playtime,Weight,2 Player,In Queue
-Century: Spice Road,Medium,Light,Yes,No
+﻿ID,GameName,BGGLink,Playtime,Weight,MinPlayers,MaxPlayers,InQueue
+0,"Century: Spice Road","https://boardgamegeek.com/boardgame/209685/century-spice-road",Medium,2,2,5,No
