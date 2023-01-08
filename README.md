@@ -15,6 +15,4 @@ graph LR
     D --> H(Games List)
     D --> I(Suggestions)
     D --> K(User Data)
-    ;
-
 ```
